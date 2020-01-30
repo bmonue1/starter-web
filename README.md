@@ -3,5 +3,5 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpose
-
+## GIT & GitHub Training
 Sample website with plenty of files for demos
